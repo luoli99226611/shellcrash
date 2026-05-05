@@ -7,6 +7,9 @@ DOMAIN,oasisauth.h3c.com
 DOMAIN,routerlogin.com
 DOMAIN,www.routerlogin.com
 DOMAIN,tplogin.cn
+DOMAIN-SUFFIX,miwifi.com
+DOMAIN-SUFFIX,router.miwifi.com
+DOMAIN-SUFFIX,api.miwifi.com
 DOMAIN,miwifi.com
 DOMAIN,www.miwifi.com
 DOMAIN,local.adguard.org
